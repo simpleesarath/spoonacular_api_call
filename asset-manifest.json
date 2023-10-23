@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spoonacular_api_call/static/css/main.c12feab9.css",
+    "main.js": "/spoonacular_api_call/static/js/main.59f98d58.js",
+    "static/js/787.2bcfa32c.chunk.js": "/spoonacular_api_call/static/js/787.2bcfa32c.chunk.js",
+    "index.html": "/spoonacular_api_call/index.html",
+    "main.c12feab9.css.map": "/spoonacular_api_call/static/css/main.c12feab9.css.map",
+    "main.59f98d58.js.map": "/spoonacular_api_call/static/js/main.59f98d58.js.map",
+    "787.2bcfa32c.chunk.js.map": "/spoonacular_api_call/static/js/787.2bcfa32c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c12feab9.css",
+    "static/js/main.59f98d58.js"
+  ]
+}
